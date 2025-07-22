@@ -119,3 +119,17 @@ Release planned: **Q4 2025**
 
 This project is built by Sachin Borse and team, focused on building India’s safest and smartest ride-sharing app — starting with Pune.
 
+
+## 🖥️ Website Development
+
+A basic marketing website built with **Next.js** lives in the `pages` folder. Run it locally:
+
+```bash
+npm install
+npm run dev
+```
+
+It provides a server-rendered landing page optimized for SEO and brand keywords.
+
+The landing page now includes sections for **How It Works**, **Key Features**, **Pricing**, **Testimonials**, and an SEO-friendly **FAQ** with structured data.
+
